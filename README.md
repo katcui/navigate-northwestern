@@ -35,7 +35,7 @@ This action is the main purpose of the program. If an '@' is inputted, the progr
 
 If a '$' is inputted, the code will `break` and the program ends.
 ***
-All of this is achieved through a while loop containing if statements which run different functions based on the user input. 
+All of this is achieved through a while loop containing if statements which run different functions based on the user input. With the use of Djikstra's algorithm, the program can successfully find the shortest path between two buildings on the Open Street Map and provide the user with directions.
 
 **Have fun navigating!**
 
