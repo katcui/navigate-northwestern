@@ -1,6 +1,6 @@
 # Navigation Guide: Open Street Map
 ## Description
-This is a program designed to find the shortest pathways to and from buildings using Open Street Map[(OSM Link)](https://www.openstreetmap.org). It utilizes multiple classes including `Nodes`, `Footways`, and `Buildings`, to recognize the Open Street Map provided as an **XML document** as a **readable graph**, with nodes being vertices and footways being edges. When provided an Open Street Map, the program will input the nodes, buidlings (collection of nodes), and footways (connections between nodes) and create a graph from which shortest pathways can be determined in between buildings. 
+This is a program designed to find the shortest pathways to and from buildings using Open Street Map[(OSM Link)](https://www.openstreetmap.org). It utilizes multiple classes including `Nodes`, `Footways`, and `Buildings`, to recognize the Open Street Map provided as an **XML document** as a **readable graph**, with nodes being vertices and footways being edges. When provided an Open Street Map, the program will input the nodes, buildings (collection of nodes), and footways (connections between nodes) and create a graph from which shortest pathways can be determined in between buildings. 
 
 ## Usage and Details
 Build and run using the makefile containing the build and run shell commands.
